@@ -1,0 +1,4 @@
+1. error checking for onConnect function in CircuitBuilder.jsx
+2. page to import circuits using JSON
+3. support for multiple outputs
+4. limit number of gates to a certain number

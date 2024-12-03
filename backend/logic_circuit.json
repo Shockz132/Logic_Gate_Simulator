@@ -1,0 +1,50 @@
+[
+  {
+    "source": "a",
+    "target": "NOT5"
+  },
+  {
+    "source": "NOT5",
+    "target": "AND6"
+  },
+  {
+    "source": "a",
+    "target": "OR7"
+  },
+  {
+    "source": "c",
+    "target": "OR7"
+  },
+  {
+    "source": "b",
+    "target": "AND6"
+  },
+  {
+    "source": "OR7",
+    "target": "NAND9"
+  },
+  {
+    "source": "c",
+    "target": "XNOR8"
+  },
+  {
+    "source": "b",
+    "target": "XNOR8"
+  },
+  {
+    "source": "XNOR8",
+    "target": "NAND9"
+  },
+  {
+    "source": "AND6",
+    "target": "NAND10"
+  },
+  {
+    "source": "NAND9",
+    "target": "NAND10"
+  },
+  {
+    "source": "NAND10",
+    "target": "x"
+  }
+]
